@@ -8,14 +8,14 @@
         <div class="row">
             <div class="col-md-5">
                 <div class="input-group mb-0">
-                    <input type="text" class="form-control border-end-0 mb-0" placeholder="Search Apps"
+                    <input type="text" class="form-control border-end-0 mb-0" placeholder="Search Book"
                         aria-label="Recipient's username" aria-describedby="basic-addon2">
                     <span class="input-group-text sit border-start-0" id="basic-addon2"><i
                             class="bi bi-search"></i></span>
                 </div>
             </div>
-            <div class="col-md-3"></div>
-            <div class="col-md-4 text-end">
+            <div class="col-md-7"></div>
+            <!-- <div class="col-md-4 text-end">
                 <div class="dropdown pt-2">
                     <a class="cp pt-4 fw-bolder fs-8 dropdown-toggle" data-bs-toggle="dropdown" aria-expanded="false">
                         Tera Byte
@@ -26,7 +26,7 @@
                         <li><a class="dropdown-item" href="#">Logout</a></li>
                     </ul>
                 </div>
-            </div>
+            </div> -->
         </div>
     </div>
 
@@ -41,20 +41,20 @@
                     </div>
                     <div class="det col-md-8 p-4">
                         <h4 class="fw-semi fs-4 mb-0">
-                            <?= isset($_POST['appname']) ? $_POST['appname'] : 'TERABYTEE APP' ?></h4>
+                            <?= isset($_POST['appname']) ? $_POST['appname'] : 'AW BOOK' ?></h4>
                         <span
-                            class="fs-8"><?= isset($_POST['appkategori']) ? $_POST['appkategori'] : 'Android Application' ?></span>
+                            class="fs-8"><?= isset($_POST['appkategori']) ? $_POST['appkategori'] : 'Book' ?></span>
 
                         <a href="./" class=" fs-8" style="float:right;"><i
                                 class="bi fs-6 me-2 bi-arrow-left"></i> Back</a>
 
                         <a href="assets/apps/<?= isset($_POST['appfile']) ? $_POST['appfile'] : '' ?>"
-                            class="btn btn-primary w-100 fw-semi fs-8 py-2 me-3 mt-4"> Download </a>
+                            class="btn btn-primary w-100 fw-semi fs-8 py-2 me-3 mt-4"> Beli </a>
                         <!-- <button class="btn border ps-3 w-45 fw-semi fs-8 py-2 btn-outlie-primary"> Add to Wish List </button> -->
 
 
 
-                        <div class="row pt-4">
+                        <!-- <div class="row pt-4">
                             <div class="col-md-6 col-6 text-center">
                                 <b>5.0 <i class="bi bi-star-fill"></i></b>
                                 <p>11.6k Reviews</p>
@@ -63,10 +63,10 @@
                                 <b>5M+</b>
                                 <p>Downloads</p>
                             </div>
-                        </div>
+                        </div> -->
 
                         <div class="auth pt-4" style="float: right;">
-                            <h6 class="text-primary fw-semi mb-0">terabytee Publishing</h6>
+                            <h6 class="text-primary fw-semi mb-0">AW BOOK Publishing</h6>
                             <p class="fs-8" style="text-align:right;">contains Ads</p>
                         </div>
                     </div>
