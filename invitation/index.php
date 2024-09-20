@@ -33,7 +33,7 @@
     <meta property="og:site_name" content="AW" /> <!-- website name -->
     <meta property="og:site" content="https://awbook.id/" /> <!-- website link -->
     <meta property="og:title" content="AW - Invitation"/> <!-- title shown in the actual shared post -->
-    <meta property="og:description" content="Silakan berikan doa untuk Malik" /> <!-- description shown in the actual shared post -->
+    <meta property="og:description" content="AW Invitation" /> <!-- description shown in the actual shared post -->
     <meta property="og:image" content="https://awbook.id/assets/images/aw.png" /> <!-- image link, make sure it's jpg -->
     <meta property="og:url" content="https://awbook.id/" /> <!-- where do you want your post to link to -->
     <meta name="twitter:card" content="https://awbook.id/assets/images/aw.png"> <!-- to have large image post format in Twitter -->
