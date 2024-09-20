@@ -140,7 +140,7 @@
                 <!-- Bahagia rasanya apabila anda berkenan hadir dan memberikan doa -->
               </div>
               <div class="p-3 card hover bg-white text-center radius-10 mt-4">
-                <h6 class="mb-0">JW Marriot Hotel - Dua Mutiara Ballroom</h6>
+                <h6 class="mb-0 color-primary">JW Marriot Hotel - Dua Mutiara Ballroom</h6>
                 <hr class="my-4" />
                 <h5 class="mb-0 text-black">AT 17:30 PM</h5>
                 <div>SUNDAY, 06 October 2024</div>
