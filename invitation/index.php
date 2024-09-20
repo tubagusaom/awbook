@@ -19,8 +19,8 @@
     <meta name="robots" content="index,follow" />
 
     <title>AW Invitation</title>
-    <meta name="description" content="Silakan berikan doa untuk Malik" />
-    <meta name="keywords" content="Malik, Aqiqah Malik, Website Aqiqah, Aqiqah" />
+    <meta name="description" content="AW Invitation" />
+    <meta name="keywords" content="AW, AW Invitation, Website Invitation, Invitation" />
     <meta name="author" content="terabytee" />
 
     <!-- Favicon -->
@@ -30,13 +30,13 @@
     <link rel="shortcut icon" href="../assets/images/aw.png">
 
     <!-- OG Meta Tags to improve the way the post looks when you share the page on LinkedIn, Facebook, Google+ -->
-    <meta property="og:site_name" content="Malik" /> <!-- website name -->
-    <meta property="og:site" content="https://malik.terabytee.my.id/" /> <!-- website link -->
-    <meta property="og:title" content="Malik - Aqiqah"/> <!-- title shown in the actual shared post -->
+    <meta property="og:site_name" content="AW" /> <!-- website name -->
+    <meta property="og:site" content="https://awbook.id/" /> <!-- website link -->
+    <meta property="og:title" content="AW - Invitation"/> <!-- title shown in the actual shared post -->
     <meta property="og:description" content="Silakan berikan doa untuk Malik" /> <!-- description shown in the actual shared post -->
-    <meta property="og:image" content="https://malik.terabytee.my.id/assets/img/icon_malik.png" /> <!-- image link, make sure it's jpg -->
-    <meta property="og:url" content="https://malik.terabytee.my.id/" /> <!-- where do you want your post to link to -->
-    <meta name="twitter:card" content="https://malik.terabytee.my.id/assets/img/icon_malik.png"> <!-- to have large image post format in Twitter -->
+    <meta property="og:image" content="https://awbook.id/assets/images/aw.png" /> <!-- image link, make sure it's jpg -->
+    <meta property="og:url" content="https://awbook.id/" /> <!-- where do you want your post to link to -->
+    <meta name="twitter:card" content="https://awbook.id/assets/images/aw.png"> <!-- to have large image post format in Twitter -->
 
     <!-- Bootstrap CSS -->
     <link rel="stylesheet" type="text/css" href="assets/fontawesome-pro/css/font-awesome.min.css"/>
