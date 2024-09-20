@@ -145,9 +145,10 @@
                 <h5 class="mb-0 text-black">AT 17:30 PM</h5>
                 <div>SUNDAY, 06 October 2024</div>
                 <div class="mt-4">
-                  Jl. DR. Ide Anak Agung Gde Agung No.1&2 Kav. E1.2 <br>
-                  Kuningan, Kuningan Tim., Kecamatan Setiabudi <br>
-                  Kota Jakarta Selatan, DKI Jakarta 12950
+                  Jl. DR. Ide Anak Agung Gde Agung<br>
+                  No.1&2 Kav. E1.2 Kuningan, Kuningan Tim.<br>
+                  Kecamatan Setiabudi Kota Jakarta Selatan<br>
+                  DKI Jakarta 12950
                 </div>
                 <div class="mt-4">
                   <a
