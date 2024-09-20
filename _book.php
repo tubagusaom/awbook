@@ -3,7 +3,7 @@
 </a></h4>
 
                 <div class="col-md-4 mb-3">
-                    <a href="single.php?">
+                    <a href="single.php?code=1">
                         <div class="app-cover p-2 shadow-md bg-white">
                             <div class="row">
                                 <div class="img-cover pe-0 col-4"> <img class="rounded" src="assets/images/books/awbook5.jpg" alt="terabytee"></div>
@@ -29,7 +29,7 @@
 
 
                <div class="col-md-4 mb-3">
-                    <a href="single.php">
+                    <a href="single.php?code=2">
                           <div class="app-cover p-2 shadow-md bg-white">
                             <div class="row">
                                  <div class="img-cover pe-0 col-4"> <img class="rounded" src="assets/images/books/awbook4.jpg" alt="terabytee"></div>
@@ -54,7 +54,7 @@
                </div>
 
                 <div class="col-md-4 mb-3">
-                    <a href="single.php">
+                    <a href="single.php?code=3">
                         <div class="app-cover p-2 shadow-md bg-white">
                             <div class="row">
                                 <div class="img-cover pe-0 col-4"> <img class="rounded" src="assets/images/books/awbook2.jpg" alt="terabytee"></div>
@@ -79,7 +79,7 @@
                 </div>
 
                 <div class="col-md-4 mb-3">
-                    <a href="single.php">
+                    <a href="single.php?code=4">
                       <div class="app-cover p-2 shadow-md bg-white">
                             <div class="row">
                                  <div class="img-cover pe-0 col-4"> <img class="rounded" src="assets/images/books/awbook3.jpg" alt="terabytee"></div>
@@ -104,7 +104,7 @@
                </div>
 
                 <div class="col-md-4 mb-3">
-                       <a href="single.php">
+                       <a href="single.php?code=5">
                           <div class="app-cover p-2 shadow-md bg-white">
                             <div class="row">
                                  <div class="img-cover pe-0 col-4"> <img class="rounded" src="assets/images/books/awbook1.jpg" alt="terabytee"></div>

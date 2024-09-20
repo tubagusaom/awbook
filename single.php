@@ -30,25 +30,70 @@
         </div>
     </div>
 
+    <?php
+        if($_GET['code']==1){
+            $sampul = "awbook5.jpg";
+            $judul="Dinamika Industri Hulu";
+            $kategori="Industri";
+            $harga="200.000";
+        }elseif($_GET['code']==2){
+            $sampul = "awbook4.jpg";
+            $judul="Franchising Jesus";
+            $kategori="Rohani";
+            $harga="200.000";
+        }elseif($_GET['code']==3){
+            $sampul = "awbook2.jpg";
+            $judul="Kebijakan Setengah Hati";
+            $kategori="Industri";
+            $harga="150.000";
+        }elseif($_GET['code']==4){
+            $sampul = "awbook3.jpg";
+            $judul="Jeritan Energi";
+            $kategori="Industri";
+            $harga="150.000";
+        }elseif($_GET['code']==5){
+            $sampul = "awbook1.jpg";
+            $judul="Profil Industri Keramik Indonesia";
+            $kategori="Industri";
+            $harga="160.000";
+        }else{
+            $sampul = "appstore.png";
+            $judul="AW BOOK";
+            $kategori="Book";
+            $harga="000";
+        }
+    ?>
+
     <div class="section-container p-4 p-xl-4">
         <div class="row">
             <div class="col-md-12 ps-4 ps-lg-3">
                 <div class="row bg-white shadow-sm">
                     <div class="col-md-4 p-3">
                         <img class="w-100" style="border-radius: 0.88rem !important"
-                            src="assets/images/apps/<?= isset($_POST['appimg']) ? $_POST['appimg'] : 'terabyteeapp.png' ?>"
+                            src="assets/images/books/<?= $sampul ?>"
                             alt="terabytee">
                     </div>
                     <div class="det col-md-8 p-4">
                         <h4 class="fw-semi fs-4 mb-0">
-                            <?= isset($_POST['appname']) ? $_POST['appname'] : 'AW BOOK' ?></h4>
+                            <?= $judul ?></h4>
                         <span
-                            class="fs-8"><?= isset($_POST['appkategori']) ? $_POST['appkategori'] : 'Book' ?></span>
+                            class="fs-8"><?= $kategori ?></span>
 
                         <a href="./" class=" fs-8" style="float:right;"><i
                                 class="bi fs-6 me-2 bi-arrow-left"></i> Back</a>
 
-                        <a href="assets/apps/<?= isset($_POST['appfile']) ? $_POST['appfile'] : '' ?>"
+                        <div class="row pt-4">
+                            <div class="col-md-6 col-6 text-right">
+                                <!-- <b>5.0 <i class="bi bi-star-fill"></i></b> -->
+                                <p>Harga : <?= $harga ?></p>
+                            </div>
+                            <!-- <div class="col-md-6 col-6 text-center">
+                                <b>5M+</b>
+                                <p>Downloads</p>
+                            </div> -->
+                        </div>
+
+                        <a href="#"
                             class="btn btn-primary w-100 fw-semi fs-8 py-2 me-3 mt-4"> Beli </a>
                         <!-- <button class="btn border ps-3 w-45 fw-semi fs-8 py-2 btn-outlie-primary"> Add to Wish List </button> -->
 
@@ -65,7 +110,7 @@
                             </div>
                         </div> -->
 
-                        <div class="auth pt-4" style="float: right;">
+                        <div class="auth pt-5" style="float: right;">
                             <h6 class="text-primary fw-semi mb-0">AW BOOK Publishing</h6>
                             <p class="fs-8" style="text-align:right;">contains Ads</p>
                         </div>
