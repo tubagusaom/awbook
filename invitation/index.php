@@ -136,7 +136,7 @@
               <!-- Start Undangan -->
               <div class="" id="event">&nbsp;</div>
               <div class="text-center">
-                <h3 class="text-black">Birthday Event</h3>
+                <h3 class="color-primary">Birthday Event</h3>
                 <!-- Bahagia rasanya apabila anda berkenan hadir dan memberikan doa -->
               </div>
               <div class="p-3 card hover bg-white text-center radius-10 mt-4">
@@ -163,7 +163,7 @@
               <!-- Start Map -->
               <div class="mt-5" id="peta">&nbsp;</div>
               <div class="text-center">
-                <h2 class="text-black">Location map</h2>
+                <h2 class="color-primary">Location map</h2>
                 <p>
                 You can get to our event location with the help of the map below.
                 Or click the button below
@@ -200,7 +200,7 @@
               <!-- Start Kado -->
               <div class="mt-2" id="kado">&nbsp;</div>
               <div class="text-center" id="">
-                <h3 class="text-black">Gift</h3>
+                <h3 class="color-primary">Gift</h3>
                 Thank you for your participation, if you want to send a gift, please send it using the method below. Thank You.
               </div>
               <div class="mt-4">

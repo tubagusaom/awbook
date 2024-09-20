@@ -140,9 +140,15 @@ header nav .navbar-nav .nav-link.active{
 	background-size: cover;
 }
 
-.hover:hover{
+.hover{
 	/* box-shadow: 0 1rem 3rem rgba(1, 161, 200, 0.3) !important; */
 	box-shadow: 0 1rem 3rem rgba(72, 54, 32, 0.3) !important;
+	
+}
+
+.hover:hover{
+	/* box-shadow: 0 1rem 3rem rgba(1, 161, 200, 0.3) !important; */
+	box-shadow: 0 1rem 3rem rgba(72, 54, 32, 0.5) !important;
 	
 }
 
