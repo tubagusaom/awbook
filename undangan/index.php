@@ -198,89 +198,7 @@
               <!-- End Map -->
 
 
-              <!-- Start Kado -->
-              <div class="mt-2" id="kado">&nbsp;</div>
-              <div class="text-center" id="">
-                <h3 class="color-primary">Gift</h3>
-                Thank you for your participation, if you want to send a gift, please send it using the method below. Thank You.
-              </div>
-              <div class="mt-4">
-                <!-- <div class="text-center hover">
-                  <img
-                    src="https://sulaiman.diaqiqah.com/dirmember/00000001/sulaiman/kadokhitan-1-220927101019.jpg"
-                    class="img-fluid w-100 radius-10"
-                    alt=""
-                  />
-                </div> -->
-                <!-- <div class="text-center">
-                  <p></p>
-                  <p>
-                    <font style="vertical-align: inherit">
-                      <font style="vertical-align: inherit"
-                        >Jika Anda ingin memberikan hadiah kecil untuk Sulaiman,
-                        Anda dapat mengirimkan ke alamat rumah kami yang sama
-                        dengan lokasi penyelenggaraan acara</font
-                      >
-                    </font>
-                  </p>
-                  <p></p>
-                </div> -->
-                <div class="card bg-white card-undangan hover mt-3">
-                  <div class="card-body">
-                    <blockquote class="blockquote mb-0 text-center">
-                      <img style="padding-bottom: 20px;"
-                      src="assets/img/qris-wita.jpg"
-                      class="img-fluid w-100 radius-10"
-                      alt=""
-                      />
-                      <!-- <input type="text" value="12345678" id="myInput2" hidden="" /> -->
-                      <!-- <p class="my-3">Nomor Rekening : 12345678</p> -->
-                       <!-- <a href="assets/img/qris-wita.jpg"> -->
-                      <button id="unduhqris" class="btn" style="background-color: #483620; border-radius: 20px;color: #ffffff; margin-top: 0px;">
-                        <i class="fal fa-download"></i> Download QRIS
-                      </button>
-                      <!-- </a> -->
-                    </blockquote>
-                  </div>
-                </div>
-
-                <script>
-                  function downloadFile(url, fileName){
-                    fetch(url, { method: 'get', mode: 'no-cors', referrerPolicy: 'no-referrer' })
-                      .then(res => res.blob())
-                      .then(res => {
-                        const aElement = document.createElement('a');
-                        aElement.setAttribute('download', fileName);
-                        const href = URL.createObjectURL(res);
-                        aElement.href = href;
-                        // aElement.setAttribute('href', href);
-                        aElement.setAttribute('target', '_blank');
-                        aElement.click();
-                        URL.revokeObjectURL(href);
-                      });
-                  };
-                  document.getElementById('unduhqris').onclick =function () {
-                    downloadFile('assets/img/qris-wita.jpg', 'QRIS wita.jpg');
-                  }
-                </script>
-
-                <!-- <div class="card bg-white card-undangan hover mt-3">
-                  <div class="card-body">
-                    <blockquote class="blockquote mb-0 text-center">
-                      <img
-                      src="https://sulaiman.diaqiqah.com/dirmember/rekening/sulaiman/mandiri.jpg"
-                      class="img-fluid w-100 radius-10"
-                      alt=""
-                      />
-                      <input type="text" value="9101112" id="myInput1" hidden="" />
-                      <p class="my-3">Nomor Rekening : 9101112</p>
-                      <button class="btn" style="background-color: #26a9e0; border-radius: 20px;color: #ffffff; margin-top: 0px;"onclick="myFunction1()">
-                        <i class="fal fa-copy"></i> Copy Rekening
-                      </button>
-                    </blockquote>
-                  </div>
-                </div> -->
-              <!-- End Kado -->
+              
 
               
 
@@ -353,13 +271,13 @@
 
           <a class="text-black text-decoration-none mx-4" onclick="music();" href="#">&nbsp;</a>
 
-          <a
+          <!-- <a
             class="text-black text-decoration-none mx-4"
             onclick="music();"
             href="#kado"
             ><i class="fal fa-gift color-primary"></i><br />
             <div class="color-primary">Gift</div>
-          </a>
+          </a> -->
 
           
         </div>
