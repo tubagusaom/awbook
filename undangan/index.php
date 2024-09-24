@@ -24,8 +24,8 @@
     <meta name="author" content="terabytee" />
 
     <!-- Favicon -->
-    <!-- <link rel="shortcut icon" href="icon-malik.ico" type="image/x-icon" />
-    <link rel="apple-touch-icon" href="icon-malik.ico"> -->
+    <!-- <link rel="shortcut icon" href="icon_malik.ico" type="image/x-icon" />
+    <link rel="apple-touch-icon" href="icon_malik.ico"> -->
     <link rel="shortcut icon" href="../assets/images/aw.png" type="image/x-icon">
     <link rel="shortcut icon" href="../assets/images/aw.png">
 
@@ -88,7 +88,7 @@
                 <h6 class="my-3" fadeinup="" wow="" style="color: #000000">Tera dan Byte</h6>
                 <div class="text-black" fadeinup="" wow="">di Netherland</div> -->
 
-                <a href="#event" class="btn btn-primary mt-5" >Open Invitation</a>
+                <a href="#event" class="btn btn-primary mt-5" onclick="music();" >Open Invitation</a>
               </div>
             </div>
           <!-- </div> -->
@@ -250,6 +250,9 @@
             <div class="color-blue">Galery</div>
           </a> -->
 
+          <a class="text-black text-decoration-none mx-4" onclick="music();" href="#">&nbsp;</a>
+          <a class="text-black text-decoration-none mx-4" onclick="music();" href="#">&nbsp;</a>
+          <a class="text-black text-decoration-none mx-4" onclick="music();" href="#">&nbsp;</a>
           <a class="text-black text-decoration-none mx-4" onclick="music();" href="#">&nbsp;</a>
 
           <a
