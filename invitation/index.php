@@ -201,8 +201,8 @@
               <!-- Start Kado -->
               <div class="mt-2" id="kado">&nbsp;</div>
               <div class="text-center" id="">
-                <h3 class="color-primary">Gift</h3>
-                Thank you for your participation, if you want to send a gift, please send it using the method below. Thank You.
+                <!-- <h3 class="color-primary">Donate</h3> -->
+                <b style="color:#111;">we kindly ask for no flower arrangements or gift: your presence and scanning the barcode is the best gift. Thank You.</b>
               </div>
               <div class="mt-4">
                 <!-- <div class="text-center hover">
@@ -333,6 +333,9 @@
           </a> -->
 
           <a class="text-black text-decoration-none mx-4" onclick="music();" href="#">&nbsp;</a>
+          <a class="text-black text-decoration-none mx-4" onclick="music();" href="#">&nbsp;</a>
+          <a class="text-black text-decoration-none mx-4" onclick="music();" href="#">&nbsp;</a>
+          <a class="text-black text-decoration-none mx-4" onclick="music();" href="#">&nbsp;</a>
 
           <a
             class="text-black text-decoration-none mx-4"
@@ -353,13 +356,13 @@
 
           <a class="text-black text-decoration-none mx-4" onclick="music();" href="#">&nbsp;</a>
 
-          <a
+          <!-- <a
             class="text-black text-decoration-none mx-4"
             onclick="music();"
             href="#kado"
-            ><i class="fal fa-gift color-primary"></i><br />
-            <div class="color-primary">Gift</div>
-          </a>
+            ><i class="fal fa-qrcode color-primary"></i><br />
+            <div class="color-primary">Donate</div>
+          </a> -->
 
           
         </div>
