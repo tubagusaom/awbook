@@ -201,8 +201,10 @@
               <!-- Start Kado -->
               <div class="mt-2" id="kado">&nbsp;</div>
               <div class="text-center" id="">
-                <!-- <h3 class="color-primary">Donate</h3> -->
-                <b style="color:#111;">we kindly ask for no flower arrangements or gift: your presence and scanning the barcode is the best gift. Thank You.</b>
+                <h3 class="color-primary">Pre-launch Book</h3>
+                <!-- <img src="assets/img/nogift.jpg" alt="" style="width:44px;border-radius:50%">
+                <b class="color-primary"> &nbsp; &nbsp; NO GIFT & NO FLOWER &nbsp; &nbsp; </b>
+                <img src="assets/img/noflower.jpg" alt="" style="width:44px;border-radius:50%"> -->
               </div>
               <div class="mt-4">
                 <!-- <div class="text-center hover">
@@ -228,20 +230,34 @@
                 <div class="card bg-white card-undangan hover mt-3">
                   <div class="card-body">
                     <blockquote class="blockquote mb-0 text-center">
-                      <img style="padding-bottom: 20px;"
-                      src="assets/img/qris-wita.jpg"
-                      class="img-fluid w-100 radius-10"
-                      alt=""
-                      />
+                      <img style="padding-bottom: 20px;width:55px!important;" src="assets/img/book/awbook5.jpg" class="img-fluid w-100 radius-10" />
+                      <img style="padding-bottom: 20px;width:55px!important;" src="assets/img/book/awbook4.jpg" class="img-fluid w-100 radius-10" />
+                      <img style="padding-bottom: 20px;width:55px!important;" src="assets/img/book/awbook3.jpg" class="img-fluid w-100 radius-10" />
+                      <img style="padding-bottom: 20px;width:55px!important;" src="assets/img/book/awbook2.jpg" class="img-fluid w-100 radius-10" />
+                      <img style="padding-bottom: 20px;width:55px!important;" src="assets/img/book/awbook1.jpg" class="img-fluid w-100 radius-10" />
                       <!-- <input type="text" value="12345678" id="myInput2" hidden="" /> -->
                       <!-- <p class="my-3">Nomor Rekening : 12345678</p> -->
                        <!-- <a href="assets/img/qris-wita.jpg"> -->
-                      <button id="unduhqris" class="btn" style="background-color: #483620; border-radius: 20px;color: #ffffff; margin-top: 0px;">
+                      <!-- <button id="unduhqris" class="btn" style="background-color: #483620; border-radius: 20px;color: #ffffff; margin-top: 0px;">
                         <i class="fal fa-download"></i> Download QRIS
-                      </button>
+                      </button> -->
                       <!-- </a> -->
                     </blockquote>
+                    <!-- <blockquote class="blockquote mb-0 text-left">
+                      <font style="padding-left: 23px;font-size:13px">new</font>
+                      <font style="padding-left: 23px;font-size:13px">new</font>
+                      <font style="padding-left: 23px;font-size:13px">&nbsp;</font>
+                      <font style="padding-left: 23px;font-size:13px">&nbsp;</font>
+                      <font style="padding-left: 23px;font-size:13px">&nbsp;</font>
+                    </blockquote> -->
                   </div>
+                </div>
+
+                <div class="mt-5 text-center" id="">
+                  <!-- <h3 class="color-primary">Donate</h3> -->
+                  <img src="assets/img/nogift.jpg" alt="" style="width:44px;border-radius:50%">
+                  <b class="color-primary"> &nbsp; &nbsp; NO GIFT & NO FLOWER &nbsp; &nbsp; </b>
+                  <img src="assets/img/noflower.jpg" alt="" style="width:44px;border-radius:50%">
                 </div>
 
                 <script>
