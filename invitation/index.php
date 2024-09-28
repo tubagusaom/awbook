@@ -237,7 +237,7 @@
                 <div class="card bg-white card-undangan hover mt-3">
                   <div class="card-body">
                     <blockquote class="blockquote mb-0 text-center">
-                      <img style="padding-bottom: 20px;width:50px!important;" src="assets/img/book/awbooknew_1.png" class="img-fluid w-100 radius-10" />
+                      <img style="padding-bottom: 20px;width:50px!important;" src="assets/img/book/awbooknew-1.png" class="img-fluid w-100 radius-10" />
                       <img style="padding-bottom: 20px;width:50px!important;" src="assets/img/book/awbooknew_2.png" class="img-fluid w-100 radius-10" />
                       <img style="padding-bottom: 20px;width:50px!important;" src="assets/img/book/awbooknew_3.png" class="img-fluid w-100 radius-10" />
                       <img style="padding-bottom: 20px;width:50px!important;" src="assets/img/book/awbooknew_4.png" class="img-fluid w-100 radius-10" />
