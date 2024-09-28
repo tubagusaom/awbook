@@ -230,11 +230,11 @@
                 <div class="card bg-white card-undangan hover mt-3">
                   <div class="card-body">
                     <blockquote class="blockquote mb-0 text-center">
-                      <img style="padding-bottom: 20px;width:50px!important;" src="assets/img/book/awbooknew1.png" class="img-fluid w-100 radius-10" />
-                      <img style="padding-bottom: 20px;width:50px!important;" src="assets/img/book/awbooknew2.png" class="img-fluid w-100 radius-10" />
-                      <img style="padding-bottom: 20px;width:50px!important;" src="assets/img/book/awbook3.jpg" class="img-fluid w-100 radius-10" />
-                      <img style="padding-bottom: 20px;width:50px!important;" src="assets/img/book/awbook2.jpg" class="img-fluid w-100 radius-10" />
-                      <img style="padding-bottom: 20px;width:50px!important;" src="assets/img/book/awbook1.jpg" class="img-fluid w-100 radius-10" />
+                      <img style="padding-bottom: 20px;width:50px!important;" src="assets/img/book/awbooknew_1.png" class="img-fluid w-100 radius-10" />
+                      <img style="padding-bottom: 20px;width:50px!important;" src="assets/img/book/awbooknew_2.png" class="img-fluid w-100 radius-10" />
+                      <img style="padding-bottom: 20px;width:50px!important;" src="assets/img/book/awbooknew_3.png" class="img-fluid w-100 radius-10" />
+                      <img style="padding-bottom: 20px;width:50px!important;" src="assets/img/book/awbooknew_4.png" class="img-fluid w-100 radius-10" />
+                      <img style="padding-bottom: 20px;width:50px!important;" src="assets/img/book/awbooknew_5.png" class="img-fluid w-100 radius-10" />
                       <!-- <input type="text" value="12345678" id="myInput2" hidden="" /> -->
                       <!-- <p class="my-3">Nomor Rekening : 12345678</p> -->
                        <!-- <a href="assets/img/qris-wita.jpg"> -->
@@ -255,8 +255,8 @@
 
                 <div class="mt-5 text-center" id="">
                   <!-- <h3 class="color-primary">Donate</h3> -->
-                  <img src="assets/img/nogift.jpg" alt="" style="width:44px;border-radius:50%">
-                  <b class="color-primary"> &nbsp; &nbsp; NO GIFT & NO FLOWER &nbsp; &nbsp; </b>
+                  <img src="assets/img/noflower.jpg" alt="" style="width:44px;border-radius:50%">
+                  <b>&nbsp; &nbsp; NO FLOWERS &nbsp; &nbsp; </b>
                   <img src="assets/img/noflower.jpg" alt="" style="width:44px;border-radius:50%">
                 </div>
 
