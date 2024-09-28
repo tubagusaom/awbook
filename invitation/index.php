@@ -197,6 +197,13 @@
               </div>
               <!-- End Map -->
 
+              <div class=" text-center" id="" style="padding-bottom: 50px;">
+                  <!-- <h3 class="color-primary">Donate</h3> -->
+                  <img src="assets/img/noflower.jpg" alt="" style="width:44px;border-radius:50%">
+                  <b>&nbsp; &nbsp; NO FLOWERS &nbsp; &nbsp; </b>
+                  <img src="assets/img/noflower.jpg" alt="" style="width:44px;border-radius:50%">
+              </div>
+
 
               <!-- Start Kado -->
               <div class="mt-2" id="kado">&nbsp;</div>
@@ -253,12 +260,11 @@
                   </div>
                 </div>
 
-                <div class="mt-5 text-center" id="">
-                  <!-- <h3 class="color-primary">Donate</h3> -->
+                <!-- <div class="mt-5 text-center" id="">
                   <img src="assets/img/noflower.jpg" alt="" style="width:44px;border-radius:50%">
                   <b>&nbsp; &nbsp; NO FLOWERS &nbsp; &nbsp; </b>
                   <img src="assets/img/noflower.jpg" alt="" style="width:44px;border-radius:50%">
-                </div>
+                </div> -->
 
                 <script>
                   function downloadFile(url, fileName){
