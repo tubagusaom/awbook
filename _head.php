@@ -15,9 +15,9 @@
     <meta property="og:site" content="https://awbook.id/" /> <!-- website link -->
     <meta property="og:title" content="AW - Book"/> <!-- title shown in the actual shared post -->
     <meta property="og:description" content="AW Book" /> <!-- description shown in the actual shared post -->
-    <meta property="og:image" content="https://awbook.id/assets/images/aw.png" /> <!-- image link, make sure it's jpg -->
+    <meta property="og:image" content="assets/images/aw.png" /> <!-- image link, make sure it's jpg -->
     <meta property="og:url" content="https://awbook.id/" /> <!-- where do you want your post to link to -->
-    <meta name="twitter:card" content="https://awbook.id/assets/images/aw.png"> <!-- to have large image post format in Twitter -->
+    <meta name="twitter:card" content="assets/images/aw.png"> <!-- to have large image post format in Twitter -->
 
     <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500;600;700;800;900&amp;display=swap" rel="stylesheet">
     <link rel="stylesheet" href="assets/css/bootstrap.min.css">
