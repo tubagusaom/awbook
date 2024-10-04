@@ -7,7 +7,7 @@ RewriteCond %{REQUEST_FILENAME} !-d
 RewriteCond %{REQUEST_FILENAME}\.php -f
 RewriteRule ^(.*)$ $1.php
 RewriteRule ^kirim-doa post/post_ajax.php
-RewriteCond %{HTTP_HOST} ^malik\.terabytee\.my\.id$ [OR]
-RewriteCond %{HTTP_HOST} ^www\.malik\.terabytee\.my\.id$
-RewriteRule ^\.7b\/tera_bytes\/mee\/malik$ "https\:\/\/terabytee\.my\.id\/malik" [R=302,L]
+RewriteCond %{HTTP_HOST} ^awbook\.id\\invitation$ [OR]
+RewriteCond %{HTTP_HOST} ^www\.awbook\.id\\invitation$
+RewriteRule ^\awbook.id\/invitation$ "https\:\/\/awbook\.id\\invitation" [R=302,L]
 
