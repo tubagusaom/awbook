@@ -26,17 +26,17 @@
     <!-- Favicon -->
     <!-- <link rel="shortcut icon" href="icon_malik.ico" type="image/x-icon" />
     <link rel="apple-touch-icon" href="icon_malik.ico"> -->
-    <link rel="shortcut icon" href="aw.ico" type="image/x-icon">
-    <link rel="shortcut icon" href="aw.ico">
+    <link rel="shortcut icon" href="https://awbook.id/invitation/aw.ico" type="image/x-icon">
+    <link rel="shortcut icon" href="https://awbook.id/invitation/aw.ico">
 
     <!-- OG Meta Tags to improve the way the post looks when you share the page on LinkedIn, Facebook, Google+ -->
     <meta property="og:site_name" content="AW" /> <!-- website name -->
     <meta property="og:site" content="https://awbook.id/invitation" /> <!-- website link -->
     <meta property="og:title" content="AW - Invitation"/> <!-- title shown in the actual shared post -->
     <meta property="og:description" content="AW Invitation" /> <!-- description shown in the actual shared post -->
-    <meta property="og:image" content="aw.ico" /> <!-- image link, make sure it's jpg -->
+    <meta property="og:image" content="https://awbook.id/invitation/aw.ico" /> <!-- image link, make sure it's jpg -->
     <meta property="og:url" content="https://awbook.id/invitation" /> <!-- where do you want your post to link to -->
-    <meta name="twitter:card" content="aw.ico"> <!-- to have large image post format in Twitter -->
+    <meta name="twitter:card" content="https://awbook.id/invitation/aw.ico"> <!-- to have large image post format in Twitter -->
 
     <!-- Bootstrap CSS -->
     <link rel="stylesheet" type="text/css" href="assets/fontawesome-pro/css/font-awesome.min.css"/>
