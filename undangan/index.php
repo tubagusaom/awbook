@@ -26,17 +26,17 @@
     <!-- Favicon -->
     <!-- <link rel="shortcut icon" href="icon_malik.ico" type="image/x-icon" />
     <link rel="apple-touch-icon" href="icon_malik.ico"> -->
-    <link rel="shortcut icon" href="../assets/images/aw.png" type="image/x-icon">
-    <link rel="shortcut icon" href="../assets/images/aw.png">
+    <link rel="shortcut icon" href="https://awbook.id/invitation/aw.ico" type="image/x-icon">
+    <link rel="shortcut icon" href="https://awbook.id/invitation/aw.ico">
 
     <!-- OG Meta Tags to improve the way the post looks when you share the page on LinkedIn, Facebook, Google+ -->
     <meta property="og:site_name" content="AW" /> <!-- website name -->
-    <meta property="og:site" content="https://awbook.id/" /> <!-- website link -->
+    <meta property="og:site" content="https://awbook.id/invitation" /> <!-- website link -->
     <meta property="og:title" content="AW - Invitation"/> <!-- title shown in the actual shared post -->
     <meta property="og:description" content="AW Invitation" /> <!-- description shown in the actual shared post -->
-    <meta property="og:image" content="https://awbook.id/assets/images/aw.png" /> <!-- image link, make sure it's jpg -->
-    <meta property="og:url" content="https://awbook.id/" /> <!-- where do you want your post to link to -->
-    <meta name="twitter:card" content="https://awbook.id/assets/images/aw.png"> <!-- to have large image post format in Twitter -->
+    <meta property="og:image" content="https://awbook.id/invitation/aw.ico" /> <!-- image link, make sure it's jpg -->
+    <meta property="og:url" content="https://awbook.id/invitation" /> <!-- where do you want your post to link to -->
+    <meta name="twitter:card" content="https://awbook.id/invitation/aw.ico"> <!-- to have large image post format in Twitter -->
 
     <!-- Bootstrap CSS -->
     <link rel="stylesheet" type="text/css" href="assets/fontawesome-pro/css/font-awesome.min.css"/>
@@ -197,8 +197,112 @@
               </div>
               <!-- End Map -->
 
+              <div class=" text-center" id="" style="padding-bottom: 50px;">
+                  <!-- <h3 class="color-primary">Donate</h3> -->
+                  <img src="assets/img/noflower.jpg" alt="" style="width:44px;border-radius:50%">
+                  <b>&nbsp; &nbsp; NO FLOWERS &nbsp; &nbsp; </b>
+                  <img src="assets/img/noflower.jpg" alt="" style="width:44px;border-radius:50%">
+              </div>
 
-              
+
+              <!-- Start Kado -->
+              <div class="mt-2" id="kado">&nbsp;</div>
+              <div class="text-center" id="">
+                <h3 class="color-primary">Pre-launch Book</h3>
+                <!-- <img src="assets/img/nogift.jpg" alt="" style="width:44px;border-radius:50%">
+                <b class="color-primary"> &nbsp; &nbsp; NO GIFT & NO FLOWER &nbsp; &nbsp; </b>
+                <img src="assets/img/noflower.jpg" alt="" style="width:44px;border-radius:50%"> -->
+              </div>
+              <div class="mt-4">
+                <!-- <div class="text-center hover">
+                  <img
+                    src="https://sulaiman.diaqiqah.com/dirmember/00000001/sulaiman/kadokhitan-1-220927101019.jpg"
+                    class="img-fluid w-100 radius-10"
+                    alt=""
+                  />
+                </div> -->
+                <!-- <div class="text-center">
+                  <p></p>
+                  <p>
+                    <font style="vertical-align: inherit">
+                      <font style="vertical-align: inherit"
+                        >Jika Anda ingin memberikan hadiah kecil untuk Sulaiman,
+                        Anda dapat mengirimkan ke alamat rumah kami yang sama
+                        dengan lokasi penyelenggaraan acara</font
+                      >
+                    </font>
+                  </p>
+                  <p></p>
+                </div> -->
+                <div class="card bg-white card-undangan hover mt-3">
+                  <div class="card-body">
+                    <blockquote class="blockquote mb-0 text-center">
+                      <img style="padding-bottom: 20px;width:50px!important;" src="assets/img/book/awbooknew-1.png" class="img-fluid w-100 radius-10" />
+                      <img style="padding-bottom: 20px;width:50px!important;" src="assets/img/book/awbooknew_2.png" class="img-fluid w-100 radius-10" />
+                      <img style="padding-bottom: 20px;width:50px!important;" src="assets/img/book/awbooknew_3.png" class="img-fluid w-100 radius-10" />
+                      <img style="padding-bottom: 20px;width:50px!important;" src="assets/img/book/awbooknew_4.png" class="img-fluid w-100 radius-10" />
+                      <img style="padding-bottom: 20px;width:50px!important;" src="assets/img/book/awbooknew_5.png" class="img-fluid w-100 radius-10" />
+                      <!-- <input type="text" value="12345678" id="myInput2" hidden="" /> -->
+                      <!-- <p class="my-3">Nomor Rekening : 12345678</p> -->
+                       <!-- <a href="assets/img/qris-wita.jpg"> -->
+                      <!-- <button id="unduhqris" class="btn" style="background-color: #483620; border-radius: 20px;color: #ffffff; margin-top: 0px;">
+                        <i class="fal fa-download"></i> Download QRIS
+                      </button> -->
+                      <!-- </a> -->
+                    </blockquote>
+                    <!-- <blockquote class="blockquote mb-0 text-left">
+                      <font style="padding-left: 23px;font-size:13px">new</font>
+                      <font style="padding-left: 23px;font-size:13px">new</font>
+                      <font style="padding-left: 23px;font-size:13px">&nbsp;</font>
+                      <font style="padding-left: 23px;font-size:13px">&nbsp;</font>
+                      <font style="padding-left: 23px;font-size:13px">&nbsp;</font>
+                    </blockquote> -->
+                  </div>
+                </div>
+
+                <!-- <div class="mt-5 text-center" id="">
+                  <img src="assets/img/noflower.jpg" alt="" style="width:44px;border-radius:50%">
+                  <b>&nbsp; &nbsp; NO FLOWERS &nbsp; &nbsp; </b>
+                  <img src="assets/img/noflower.jpg" alt="" style="width:44px;border-radius:50%">
+                </div> -->
+
+                <script>
+                  function downloadFile(url, fileName){
+                    fetch(url, { method: 'get', mode: 'no-cors', referrerPolicy: 'no-referrer' })
+                      .then(res => res.blob())
+                      .then(res => {
+                        const aElement = document.createElement('a');
+                        aElement.setAttribute('download', fileName);
+                        const href = URL.createObjectURL(res);
+                        aElement.href = href;
+                        // aElement.setAttribute('href', href);
+                        aElement.setAttribute('target', '_blank');
+                        aElement.click();
+                        URL.revokeObjectURL(href);
+                      });
+                  };
+                  document.getElementById('unduhqris').onclick =function () {
+                    downloadFile('assets/img/qris-wita.jpg', 'QRIS wita.jpg');
+                  }
+                </script>
+
+                <!-- <div class="card bg-white card-undangan hover mt-3">
+                  <div class="card-body">
+                    <blockquote class="blockquote mb-0 text-center">
+                      <img
+                      src="https://sulaiman.diaqiqah.com/dirmember/rekening/sulaiman/mandiri.jpg"
+                      class="img-fluid w-100 radius-10"
+                      alt=""
+                      />
+                      <input type="text" value="9101112" id="myInput1" hidden="" />
+                      <p class="my-3">Nomor Rekening : 9101112</p>
+                      <button class="btn" style="background-color: #26a9e0; border-radius: 20px;color: #ffffff; margin-top: 0px;"onclick="myFunction1()">
+                        <i class="fal fa-copy"></i> Copy Rekening
+                      </button>
+                    </blockquote>
+                  </div>
+                </div> -->
+              <!-- End Kado -->
 
               
 
@@ -278,8 +382,8 @@
             class="text-black text-decoration-none mx-4"
             onclick="music();"
             href="#kado"
-            ><i class="fal fa-gift color-primary"></i><br />
-            <div class="color-primary">Gift</div>
+            ><i class="fal fa-qrcode color-primary"></i><br />
+            <div class="color-primary">Donate</div>
           </a> -->
 
           
