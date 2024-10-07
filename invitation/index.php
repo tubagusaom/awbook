@@ -1,1 +1,1 @@
-<b style="font-family:calibri; font-size:35px;text-align:center">UNDANGAN TELAH BERAKHIR :)</b>
+<b style="font-family:calibri; font-size:35px;text-align:center">EVENT HAS BEEN COMPLETED :)</b>
