@@ -59,7 +59,7 @@
         <!-- <a class="logo-text" href="index.html">COMO</a> -->
 
         <!-- Image Logo -->
-        <a href="https://awbook.id/undangan">
+        <a href="./">
             <img class="logo-image" src="https://awbook.id/undangan/aw.png" alt="aw book">
         </a> 
 

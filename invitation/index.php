@@ -59,7 +59,7 @@
         <!-- <a class="logo-text" href="index.html">COMO</a> -->
 
         <!-- Image Logo -->
-        <a href="https://awbook.id/invitation">
+        <a href="./">
             <img class="logo-image" src="https://awbook.id/invitation/aw.png" alt="aw book">
         </a> 
 
