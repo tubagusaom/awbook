@@ -29,6 +29,7 @@
     <link href="css/bootstrap.css" rel="stylesheet">
     <link href="css/fontawesome-all.css" rel="stylesheet">
 	<link href="css/styles.css" rel="stylesheet">
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@6.6.0/css/fontawesome.min.css" integrity="sha384-NvKbDTEnL+A8F/AA5Tc5kmMLSJHUO868P+lDtTpJIeQdGYaUIuLr4lVGOEA1OcMy" crossorigin="anonymous">
 	
 	<!-- Favicon  -->
     <link rel="shortcut icon" href="https://awbook.id/invitation/aw.ico" type="image/x-icon">
@@ -136,6 +137,27 @@
             </span>
         </div> -->
         <!-- end of social links -->
+
+        <style>
+            .social-container {
+                color: #bbb !important;
+            }
+            .instagram {
+                text-decoration: none;
+                color: #bbb !important;
+            }
+            .instagram:hover{
+                text-decoration: none;
+                color: #b729ff !important;
+            }
+        </style>
+
+        <div class="social-container">
+            Copyright © <script>document.write(new Date().getFullYear())</script>
+            <a href="https://www.instagram.com/tera.bytee/" class="instagram" target="_blank">
+                <b><img style="width:14px" src="https://img.icons8.com/?size=100&id=43625&format=png&color=000000" alt=""> tera.bytee</b>
+            </a>
+        </div>
         
     </header> <!-- end of header -->
     <!-- end of header -->
