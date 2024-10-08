@@ -68,8 +68,8 @@
             <div class="row">
                 <div class="col-lg-12">
                     <div class="text-container">
-                        <h1>EVENT HAS BEEN COMPLETED</h1>
-                        <p class="p-large">Stay tuned for the next event &#128521;</p>
+                        <h1 style="color: #000;">EVENT HAS BEEN COMPLETED</h1>
+                        <p style="color: #000;" class="p-large">Stay tuned for the next event &#128521;</p>
                         
                         <!-- Sign Up Form -->
                         <form id="signUpForm" data-toggle="validator" data-focus="false">
