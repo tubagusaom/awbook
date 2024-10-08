@@ -10,12 +10,12 @@
 
     <!-- OG Meta Tags to improve the way the post looks when you share the page on LinkedIn, Facebook, Google+ -->
     <meta property="og:site_name" content="AW Invitation" /> <!-- website name -->
-    <meta property="og:site" content="https://awbook.id/invitation" /> <!-- website link -->
+    <meta property="og:site" content="https://awbook.id/undangan" /> <!-- website link -->
     <meta property="og:title" content="AW - Invitation"/> <!-- title shown in the actual shared post -->
     <meta property="og:description" content="AW Invitation" /> <!-- description shown in the actual shared post -->
-    <meta property="og:image" content="https://awbook.id/invitation/aw.ico" /> <!-- image link, make sure it's jpg -->
-    <meta property="og:url" content="https://awbook.id/invitation" /> <!-- where do you want your post to link to -->
-    <meta name="twitter:card" content="https://awbook.id/invitation/aw.ico"> <!-- to have large image post format in Twitter -->
+    <meta property="og:image" content="https://awbook.id/undangan/aw.ico" /> <!-- image link, make sure it's jpg -->
+    <meta property="og:url" content="https://awbook.id/undangan" /> <!-- where do you want your post to link to -->
+    <meta name="twitter:card" content="https://awbook.id/undangan/aw.ico"> <!-- to have large image post format in Twitter -->
 
 
     <!-- Webpage Title -->
@@ -31,8 +31,8 @@
 	<link href="css/styles.css" rel="stylesheet">
 	
 	<!-- Favicon  -->
-    <link rel="shortcut icon" href="https://awbook.id/invitation/aw.ico" type="image/x-icon">
-    <link rel="shortcut icon" href="https://awbook.id/invitation/aw.ico">
+    <link rel="shortcut icon" href="https://awbook.id/undangan/aw.ico" type="image/x-icon">
+    <link rel="shortcut icon" href="https://awbook.id/undangan/aw.ico">
 
     <!-- <script>
         var w = window.innerWidth;
@@ -59,8 +59,8 @@
         <!-- <a class="logo-text" href="index.html">COMO</a> -->
 
         <!-- Image Logo -->
-        <a href="https://awbook.id/invitation" target="_blank">
-            <img class="logo-image" src="https://awbook.id/invitation/aw.png" alt="aw book">
+        <a href="https://awbook.id/undangan" target="_blank">
+            <img class="logo-image" src="https://awbook.id/undangan/aw.png" alt="aw book">
         </a> 
 
 
