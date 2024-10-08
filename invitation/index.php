@@ -155,7 +155,7 @@
         <div class="social-container">
             Copyright © <script>document.write(new Date().getFullYear())</script>
             <a href="https://www.instagram.com/tera.bytee/" class="instagram" target="_blank">
-                <b><img style="width:14px" src="https://img.icons8.com/?size=100&id=43625&format=png&color=000000" alt=""> tera.bytee</b>
+                <b><img style="width:14px" src="images/icon_ig.png" alt=""> tera.bytee</b>
             </a>
         </div>
         
