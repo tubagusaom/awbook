@@ -20,7 +20,7 @@
 
     <!-- Webpage Title -->
     <title>AW Invitation</title>
-    <meta name="description" content="AW Invitation" />
+    <meta name="description" content="Event Has Been Completed" />
     <meta name="keywords" content="AW, AW Invitation, Website Invitation, Invitation" />
     <meta name="author" content="terabytee" />
     
